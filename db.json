@@ -1,0 +1,28 @@
+{
+  "seller": [
+    {
+      "name": "meet ponkiya",
+      "email": "meet@seller.com",
+      "password": "abc@123",
+      "id": "a225"
+    },
+    {
+      "id": "45cc",
+      "userName": "soham",
+      "password": "soh@123",
+      "email": "soham@seller.com"
+    },
+    {
+      "id": "6d14",
+      "userName": "raj",
+      "password": "raj@123",
+      "email": "raj@seller.com"
+    },
+    {
+      "id": "e60a",
+      "userName": "nikhil",
+      "password": "nikhil@123",
+      "email": "nikhil@gmail.com"
+    }
+  ]
+}
